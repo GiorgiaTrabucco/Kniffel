@@ -1,1 +1,1 @@
-# Kniffel game statistics
+# Kniffel game statistics in python
